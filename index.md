@@ -28,7 +28,7 @@ sections:
         the Ministry of Education to start piloting aspects of Full SBB from
         2020 onwards.
       button: Find out more
-      url: /full-subject-based-banding/
+      url: https://staging.d28t49xsr05e29.amplifyapp.com/academic-highlights/full-sbb/
       image: /images/Full SBB Photo.png
       alt: Image alt text
   - infopic:
@@ -37,7 +37,7 @@ sections:
       description: "Kranji Secondary School’s Internationalisation Programme aims to
         equip all Kranjians with a global perspective. "
       button: Find out more
-      url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/internationalisation-programme/overview/
+      url: https://staging.d28t49xsr05e29.amplifyapp.com/academic-highlights/e-internationalisation/
       image: /images/International Conference.png
       alt: Image alt text
   - infopic:
@@ -46,7 +46,7 @@ sections:
       description: The ALP aims to allow students to learn and identify opportunities
         for improvement and design creative solutions.
       button: Find out more
-      url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/applied-learning-programme/
+      url: https://staging.d28t49xsr05e29.amplifyapp.com/academic-highlights/alp/
       image: /images/ALP Photo.png
       alt: Image alt text
   - infopic:
@@ -56,7 +56,7 @@ sections:
         Nurture a Leader in every Kranjian through Community and Youth
         Leadership programmes.
       button: find out more
-      url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/learning-for-life-programme/
+      url: https://staging.d28t49xsr05e29.amplifyapp.com/academic-highlights/llp/
       image: /images/LLP.png
       alt: Image alt text
 ---
