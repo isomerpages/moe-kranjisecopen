@@ -9,3 +9,14 @@ links:
   - title: Direct School Admissions
     url: /direct-school-admissions/overview
     sublinks: []
+  - title: Academic Highlights
+    url: /academic-highlights/full-sbb/
+    sublinks:
+      - title: Full Subject-Based Banding
+        url: /academic-highlights/full-sbb/
+      - title: e-Internationalisation
+        url: /academic-highlights/e-internationalisation/
+      - title: "Applied Learning Programme "
+        url: /academic-highlights/alp/
+      - title: Learning for Life Programme
+        url: /academic-highlights/llp/
