@@ -15,8 +15,8 @@ sections:
   - infopic:
       title: Meet Our Principal
       subtitle: Welcome
-      description: Welcome! In Kranji Secondary, our vision is to mould students into
-        thinkers with the drive to excel..
+      description: In Kranji Secondary, our vision is to mould students into thinkers
+        with the drive to excel, and leaders with a heart to serve...
       button: Read more
       url: /meet-our-principal/
       image: /images/principal1.png
