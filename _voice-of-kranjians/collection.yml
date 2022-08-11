@@ -2,4 +2,5 @@ collections:
   voice-of-kranjians:
     output: true
     order:
+      - Students.md
       - Alumni.md
