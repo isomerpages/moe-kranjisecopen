@@ -33,7 +33,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: e-Internationalisation
-      subtitle: Infopic Subtitle
+      subtitle: Programme Academic Highlights
       description: "Kranji Secondary School’s Internationalisation Programme aims to
         equip all Kranjians with a global perspective. "
       button: Find out more
@@ -42,11 +42,21 @@ sections:
       alt: Image alt text
   - infopic:
       title: Applied Learning Programme (ALP)
-      subtitle: Infopic Subtitle
+      subtitle: Programme Academic Highlights
       description: The ALP aims to allow students to learn and identify opportunities
         for improvement and design creative solutions.
       button: Find out more
       url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/applied-learning-programme/
       image: /images/ALP Photo.png
+      alt: Image alt text
+  - infopic:
+      title: Learning for Life Programme
+      subtitle: Programme Academic Highlights
+      description: Kranji Secondary School’s Learning For Life Programme aspires to
+        Nurture a Leader in every Kranjian through Community and Youth
+        Leadership programmes.
+      button: find out more
+      url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/learning-for-life-programme/
+      image: /images/LLP.png
       alt: Image alt text
 ---
