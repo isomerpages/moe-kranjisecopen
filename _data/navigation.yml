@@ -13,8 +13,17 @@ links:
         url: /academic-highlights/alp/
       - title: Learning for Life Programme
         url: /academic-highlights/llp/
+  - title: CCAs
+    url: /ccas/
   - title: Voice of Kranjians
-    url: /voice-of-kranjians/
+    url: /voice-of-kranjians/staff/
+    sublinks:
+      - title: Staff
+        url: /voice-of-kranjians/staff/
+      - title: Students
+        url: /voice-of-kranjians/students/
+      - title: Alumni
+        url: /voice-of-kranjians/alumni/
   - title: FAQs
     url: /FAQs/
   - title: Direct School Admissions
