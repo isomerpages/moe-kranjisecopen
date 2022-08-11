@@ -2,13 +2,6 @@ logo: /images/kranjilogo.png
 links:
   - title: Meet our Principal
     url: /meet-our-principal/
-  - title: Voice of Kranjians
-    url: /voice-of-kranjians/
-  - title: FAQs
-    url: /FAQs/
-  - title: Direct School Admissions
-    url: /direct-school-admissions/overview
-    sublinks: []
   - title: Academic Highlights
     url: /academic-highlights/full-sbb/
     sublinks:
@@ -20,3 +13,22 @@ links:
         url: /academic-highlights/alp/
       - title: Learning for Life Programme
         url: /academic-highlights/llp/
+  - title: Voice of Kranjians
+    url: /voice-of-kranjians/
+  - title: FAQs
+    url: /FAQs/
+  - title: Direct School Admissions
+    url: /direct-school-admissions/overview
+    sublinks:
+      - title: Direct School Admissions
+        url: /direct-school-admissions/overview
+      - title: Secondary One Posting
+        url: /direct-school-admissions/secondary-one-posting/
+      - title: Local Transfer
+        url: /direct-school-admissions/local-transfer/
+      - title: Returning Singaporeans
+        url: /direct-school-admissions/returning-singaporeans/
+      - title: International Students
+        url: /direct-school-admissions/international-students/
+      - title: FAQs
+        url: /direct-school-admissions/FAQs/
