@@ -2,5 +2,6 @@ collections:
   academic-highlights:
     output: true
     order:
+      - e Internationalisation.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
