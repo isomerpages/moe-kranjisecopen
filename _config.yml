@@ -2,8 +2,8 @@ title: Kranji E-Open House
 url: ""
 favicon: /images/kssfavlogo.png
 colors:
-  primary-color: "#007842"
-  secondary-color: "#d91b2d"
+  primary-color: "#d91b2d"
+  secondary-color: "#007842"
   media-colors:
     - title: media-color-one
       color: "#49759a"
