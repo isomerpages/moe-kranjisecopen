@@ -14,7 +14,16 @@ links:
       - title: Learning for Life Programme
         url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/learning-for-life-programme/
   - title: CCAs
-    url: /ccas/
+    url: /ccas/clubs-and-societies/
+    sublinks:
+      - title: Clubs and Societies
+        url: /ccas/clubs-and-societies/
+      - title: Uniformed Groups
+        url: /ccas/uniformed-groups/
+      - title: Visual and Performing Arts
+        url: /ccas/visual-and-performing-arts/
+      - title: Sports and Games
+        url: /ccas/sports-and-games/
   - title: Voice of Kranjians
     url: /voice-of-kranjians/staff/
     sublinks:
