@@ -1,4 +1,5 @@
 collections:
   academic-highlights:
     output: true
-    order: []
+    order:
+      - Learning for Life Programme.md
