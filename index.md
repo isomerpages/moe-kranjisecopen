@@ -65,6 +65,4 @@ sections:
       url: https://staging.d28t49xsr05e29.amplifyapp.com/academic-highlights/llp/
       image: /images/LLP.png
       alt: Image alt text
-  - resources:
-      title: Co-Curricular Activities
 ---
