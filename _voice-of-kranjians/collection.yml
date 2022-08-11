@@ -1,4 +1,5 @@
 collections:
   voice-of-kranjians:
     output: true
-    order: []
+    order:
+      - Alumni.md
