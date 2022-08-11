@@ -12,6 +12,15 @@ sections:
       background: /images/eopenbanner.gif
       button: Homepage
       url: https://staging.d28t49xsr05e29.amplifyapp.com/
+  - infopic:
+      title: Meet Our Principal
+      subtitle: Welcome
+      description: Welcome! In Kranji Secondary, our vision is to mould students into
+        thinkers with the drive to excel..
+      button: Read more
+      url: /meet-our-principal/
+      image: /images/principal.png
+      alt: Image alt text
   - infobar:
       title: School Virtual Tour
       subtitle: Let us show you around
