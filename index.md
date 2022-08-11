@@ -19,7 +19,7 @@ sections:
         with the drive to excel, and leaders with a heart to serve...
       button: Read more
       url: /meet-our-principal/
-      image: /images/principal1.png
+      image: /images/principal2.png
       alt: Image alt text
   - infobar:
       title: School Virtual Tour
