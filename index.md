@@ -19,7 +19,7 @@ sections:
         thinkers with the drive to excel..
       button: Read more
       url: /meet-our-principal/
-      image: /images/principal.png
+      image: /images/principal1.png
       alt: Image alt text
   - infobar:
       title: School Virtual Tour
