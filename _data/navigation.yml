@@ -1,8 +1,11 @@
 logo: /images/kranjilogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Meet our Principal
+    url: /meet-our-principal/
+  - title: Voice of Kranjians
+    url: /voice-of-kranjians/
+  - title: FAQs
+    url: /FAQs/
+  - title: Direct School Admissions
+    url: /direct-school-admissions/overview
+    sublinks: []
