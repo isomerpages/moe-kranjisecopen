@@ -10,11 +10,8 @@ sections:
       title: Kranji E-Open House
       subtitle: Thinker . Leader . Champion
       background: /images/eopenbanner.gif
-      dropdown:
-        title: Quick click?
-        options:
-          - title: whats this
-            url: ""
+      button: Homepage
+      url: https://staging.d28t49xsr05e29.amplifyapp.com/
   - infobar:
       title: School Virtual Tour
       subtitle: Let us show you around
