@@ -17,7 +17,7 @@ sections:
       subtitle: Let us show you around
       description: About a sentence worth of description here
       button: Click here
-      url: Youtube.com
+      url: /school-virtual-tour/
   - infopic:
       title: Full Subject-Based Banding (SBB)
       subtitle: Programme Academic Highlights
