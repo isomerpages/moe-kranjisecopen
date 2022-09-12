@@ -24,7 +24,6 @@ sections:
   - infobar:
       title: School Virtual Tour
       subtitle: Let us show you around
-      description: About a sentence worth of description here
       button: Click here
       url: /school-virtual-tour/
   - infopic:
