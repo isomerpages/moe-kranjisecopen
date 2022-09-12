@@ -52,7 +52,7 @@ In 2022, Kranji Secondary School will organise Secondary 1 Form Classes in new w
   
     <div>  
   
-      <p>We offer Higher Chinese, Chinese, Malay and Tamil.</p>  
+      <p>We offer Higher Chinese, Chinese, Higher Malay, Malay, Higher Tamil and Tamil.</p>  
   
     </div>  
   
