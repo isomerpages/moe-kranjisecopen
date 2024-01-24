@@ -1,0 +1,8 @@
+collections:
+  academic-highlights:
+    output: true
+    order:
+      - Full Subject Based Banding.md
+      - e Internationalisation.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md

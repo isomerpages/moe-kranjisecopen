@@ -1,0 +1,52 @@
+logo: /images/kranjilogo.png
+links:
+  - title: Meet our Principal
+    url: /meet-our-principal/
+  - title: Academic Highlights
+    url: /academic-highlights/full-sbb/
+    sublinks:
+      - title: Full Subject-Based Banding
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/school-life/full-subject-based-banding/
+      - title: e-Internationalisation
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/internationalisation-programme/overview/
+      - title: "Applied Learning Programme "
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/applied-learning-programme/
+      - title: Learning for Life Programme
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/special-programmes/learning-for-life-programme/
+  - title: CCAs
+    url: /ccas/clubs-and-societies/
+    sublinks:
+      - title: Clubs and Societies
+        url: /ccas/clubs-and-societies/
+      - title: Uniformed Groups
+        url: /ccas/uniformed-groups/
+      - title: Visual and Performing Arts
+        url: /ccas/visual-and-performing-arts/
+      - title: Sports and Games
+        url: /ccas/sports-and-games/
+  - title: Voice of Kranjians
+    url: /voice-of-kranjians/staff/
+    sublinks:
+      - title: Staff
+        url: /voice-of-kranjians/staff/
+      - title: Students
+        url: /voice-of-kranjians/students/
+      - title: Alumni
+        url: /voice-of-kranjians/alumni/
+  - title: FAQs
+    url: /FAQs/
+  - title: Direct School Admissions
+    url: https://staging.d28t49xsr05e29.amplifyapp.com/admissions/direct-school-admissions/
+    sublinks:
+      - title: Direct School Admissions
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/admissions/direct-school-admissions/
+      - title: Secondary One Posting
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/admissions/Secondary-One-Posting/overview/
+      - title: Local Transfer
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/admissions/local-transfer/
+      - title: Returning Singaporeans
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/admissions/returning-singaporeans/
+      - title: International Students
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/admissions/international-students/
+      - title: FAQs
+        url: https://staging.d28t49xsr05e29.amplifyapp.com/admissions/FAQs/

@@ -1,0 +1,8 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Clubs and Societies.md
+      - Uniformed Groups.md
+      - Visual and Performing Arts.md
+      - Sports and Games.md
